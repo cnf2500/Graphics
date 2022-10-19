@@ -1,4 +1,3 @@
-%
 % Author: Chris Forte
 % Date: September 27, 2022
 % Title: Fourier Transform
