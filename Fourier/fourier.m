@@ -2,7 +2,7 @@
 % Sep-27-2022
 % Fourier Transform
  
-% Read color photo
+% Read Color Photo
 image = imread('coral_reef.jpg');
 figure();
 imshow(image);
