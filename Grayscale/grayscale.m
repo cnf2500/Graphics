@@ -1,5 +1,6 @@
 % Chris Forte
 % 9-Sep-2022
+% Grayscale
 
 % Read Color Image
 pic = imread('coral_reef.jpg');
