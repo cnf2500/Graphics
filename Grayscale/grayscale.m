@@ -1,6 +1,7 @@
-% Chris Forte
-% 9-Sep-2022
-% Grayscale
+% Author: Chris Forte
+% Date: September 9, 2022
+% Title: Grayscale
+% Description: Produces a grayscale version of a selected photo.
 
 % Read Color Image
 pic = imread('coral_reef.jpg');
