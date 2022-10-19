@@ -1,6 +1,8 @@
-% Chris Forte
-% Sep-27-2022
-% Fourier Transform
+%
+% Author: Chris Forte
+% Date: September 27, 2022
+% Title: Fourier Transform
+% Description: Produces a visual representation of an image's Fast Fourier Transform magnitude. 
  
 % Read Color Photo
 image = imread('coral_reef.jpg');
