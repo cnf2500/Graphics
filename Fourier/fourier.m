@@ -1,6 +1,6 @@
 % Author: Chris Forte
 % Date: September 27, 2022
-% Title: Fourier Transform
+% Title: Fast Fourier Transform
 % Description: Produces a visual representation of an image's Fast Fourier Transform magnitude. 
  
 % Read Color Photo
