@@ -1,6 +1,7 @@
-% Chris Forte
-% 16-Oct-2022
-% Mandelbrot Image
+% Author: Chris Forte
+% Date: October 16, 2022
+% Title: Mandelbrot Image
+% Description: Produces a Mandelbrot Image based on specific parameters, (n, niter).
 
 % Program to Produce Mandelbrot Image
 function mandelbrot(n, niter)
@@ -28,4 +29,3 @@ colormap hot
 axis square
 
 end
-
