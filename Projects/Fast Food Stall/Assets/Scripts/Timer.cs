@@ -1,3 +1,10 @@
+/*
+* Chris Forte
+* 12/06/2022
+* COMPSCI 657
+* "Timer.cs" File
+*/
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
