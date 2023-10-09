@@ -1,4 +1,6 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+//Name: Christopher Forte
+//Date: 21/08/2023
+//Email: cnf2500@gmail.com
 
 using UnrealBuildTool;
 using System.IO;
