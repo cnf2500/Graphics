@@ -21,7 +21,7 @@ public:
 
     void StartLocationUpdates();
     FVector2D GetLatestLocation() const;
-    void UpdateLocation(float Latitude, float Longitude); // Made public for flexibility, but use with caution.
+    void UpdateLocation(float Latitude, float Longitude);
 
 private:
     FMacLocationManager* NativeLocationManager;
