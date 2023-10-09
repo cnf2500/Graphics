@@ -1,3 +1,7 @@
+//Name: Christopher Forte
+//Date: 21/08/2023
+//Email: cnf2500@gmail.com
+
 #ifndef WEATHERAPI_H
 #define WEATHERAPI_H
 
