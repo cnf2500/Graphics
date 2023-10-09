@@ -1,3 +1,7 @@
+//Name: Christopher Forte
+//Date: 21/08/2023
+//Email: cnf2500@gmail.com
+
 #pragma once
 
 #include "CoreMinimal.h"
